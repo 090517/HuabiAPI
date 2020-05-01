@@ -1,0 +1,15 @@
+Objective.
+
+Write a program that gives buy signals based on upward trending 30 minut candles, and sell signals based on 5 minute candles moving averages and boligners bands
+
+Steps:
+
+write object that contains the candle data and holds the following functions, given ticker, given time frame
+    update data
+    get moving average over the time period
+    get bolliger band over the time period
+    get last candle trend
+
+Write function that will
+Signal analysis.  Given the data, return the moving average, the trend
+
